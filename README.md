@@ -1,1 +1,2 @@
 # Convex-Optimization-Approach-for-Hydraulic-Thermal-Dispatch
+This repository provides codes of the paper: S. Lu, W. Gu, C. Zhang, K. Meng and Z. Dong, "Hydraulic-Thermal Cooperative Optimization of Integrated Energy Systems: A Convex Optimization Approach," in IEEE Transactions on Smart Grid, vol. 11, no. 6, pp. 4818-4832, Nov. 2020, doi: 10.1109/TSG.2020.3003399. (https://ieeexplore.ieee.org/document/9120243)
